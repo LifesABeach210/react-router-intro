@@ -7,7 +7,7 @@ import NavBar from "../Componets/NavBar";
 const AboutPage = () => {
     return (
       <div>
-       <NavBar />
+      
        
         <h1>Title:About</h1>
         <p>

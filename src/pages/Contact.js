@@ -9,7 +9,7 @@ const ContactPage = () => {
    
     return (
       <div>
-       <NavBar/>
+     
         <h1>Title:Contact</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
@@ -19,7 +19,7 @@ const ContactPage = () => {
         </p>
         <button onClick={()=>{
                 navigate('/')
-}}>dsfdsfsdfsdf</button>
+}}></button>
      
       </div>
     );
